@@ -48,3 +48,4 @@ for item in items:
 print("\nCategory Totals")
 for cat in category_totals:
     print(cat, category_totals[cat])
+
